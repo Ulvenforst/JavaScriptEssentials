@@ -26,7 +26,6 @@ const backpack = {
   newVolume: function (volume) {
     this.volume = volume;
   },
-  
   newColor: function (color) {
     this.color = color
   },
