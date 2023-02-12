@@ -5,6 +5,8 @@
 class Book {
   constructor(
     title,
+    author,
+    editorial,
     pageNumber,
     category,
     isRead,
